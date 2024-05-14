@@ -20,6 +20,6 @@ After implementing each model, evaluation results should be reported. Accuracy, 
 
 After implementation, models were evaluated and the results can be seen [here](CA4_report.pdf).
 
-[HMM implementation - notebook](CA4-HMM.ipynb) <br>
-[RNN implementation - notebook](CA4-RNN.ipynb) <br>
+[HMM implementation - notebook](CA4_HMM.ipynb) <br>
+[RNN implementation - notebook](CA4_RNN.ipynb) <br>
 
